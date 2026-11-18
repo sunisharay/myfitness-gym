@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>MYFITNESS GYM</title>
+  <rect width="64" height="64" fill="#080808"/>
+  <g transform="translate(4 4)" fill="none" stroke="#D6AE65">
+    <polygon points="16,2 40,2 54,16 54,40 40,54 16,54 2,40 2,16" stroke-width="3"/>
+    <polyline points="14,40 14,17 28,31 42,17 42,40" stroke-width="6" stroke-linejoin="miter" stroke-miterlimit="10"/>
+    <line x1="14" y1="47" x2="42" y2="47" stroke-width="2.5"/>
+  </g>
+</svg>
