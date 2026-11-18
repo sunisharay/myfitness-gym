@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 262 56" width="262" height="56" role="img" aria-label="MYFITNESS GYM">
+  <title>MYFITNESS GYM</title>
+  <!-- Emblem: weight-plate octagon + peak "M" + barbell bar -->
+  <g fill="none" stroke="#D6AE65">
+    <polygon points="16,2 40,2 54,16 54,40 40,54 16,54 2,40 2,16" stroke-width="2.5"/>
+    <polyline points="14,40 14,17 28,31 42,17 42,40" stroke-width="5" stroke-linejoin="miter" stroke-miterlimit="10"/>
+    <line x1="14" y1="46" x2="42" y2="46" stroke-width="2"/>
+  </g>
+  <!-- Wordmark. When this file is used as an <img>, web fonts are not available,
+       so a condensed system fallback stack is used. The React <Logo /> component
+       renders the same artwork inline with the site's Barlow Condensed font. -->
+  <text x="68" y="35" fill="#F5F3EF" font-family="'Barlow Condensed','Oswald','Arial Narrow',Impact,sans-serif" font-weight="800" font-size="36" textLength="190" lengthAdjust="spacingAndGlyphs">MYFITNESS</text>
+  <text x="68" y="52" fill="#D6AE65" font-family="'Barlow Condensed','Oswald','Arial Narrow',Impact,sans-serif" font-weight="700" font-size="12" letter-spacing="6">GYM</text>
+  <line x1="106" y1="47.5" x2="258" y2="47.5" stroke="#D6AE65" stroke-width="1"/>
+</svg>
